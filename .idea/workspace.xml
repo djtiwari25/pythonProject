@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1a4839-f3a0-408c-ad15-65ec72aa0696" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programs/rangecheckwithor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/Rangecheck_Q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/discount_eligibility_Q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/divisibleby5and7_Q9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/divisibleby_4or6_Q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/eligibility_Q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/evenorpositive_Q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/odd_and_notdivisible3_Q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/oddnegative_Q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/prime+odd_Q11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/evenpositive_assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/evenpositive_Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/rangecheckwithor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/rangecheckwithor_Q2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "djtiwari25"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;djtiwari25&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:djtiwari25/pythonProject.git",
-    "accountId": "2c3801fe-4ef3-4bcd-ba65-7c68d603db42"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:djtiwari25/pythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;2c3801fe-4ef3-4bcd-ba65-7c68d603db42&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -45,7 +59,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10 or 3.executor": "Run",
+    "Python.Rangecheck_Q6.executor": "Run",
+    "Python.discount_eligibility_Q8.executor": "Run",
+    "Python.divisibleby5and7_Q9.executor": "Run",
+    "Python.eligibility_Q5.executor": "Run",
+    "Python.evenpositive_Q1.executor": "Run",
     "Python.evenpositive_assignment1.executor": "Run",
+    "Python.odd index.executor": "Run",
+    "Python.oddnegative_Q7.executor": "Run",
+    "Python.prime+odd_Q10.executor": "Run",
     "Python.rangecheckwithor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -54,6 +77,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git repos\pythonProject\Assignment 1" />
       <recent name="C:\git repos\pythonProject" />
     </key>
   </component>
