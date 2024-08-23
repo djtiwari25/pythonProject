@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1a4839-f3a0-408c-ad15-65ec72aa0696" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment 1/Rangecheck_Q6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1/discount_eligibility_Q8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1/divisibleby5and7_Q9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1/divisibleby_4or6_Q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1/eligibility_Q5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1/evenorpositive_Q10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1/odd_and_notdivisible3_Q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1/oddnegative_Q7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1/prime+odd_Q11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1/purchase+discount_Q12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/Q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/Q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/Q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/Q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/Q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/Q8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programs/evenpositive_assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/evenpositive_Q1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programs/rangecheckwithor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/rangecheckwithor_Q2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.10 or 3.executor": "Run",
+    "Python.Q1.executor": "Run",
+    "Python.Q2.executor": "Run",
+    "Python.Q3.executor": "Run",
+    "Python.Q4.executor": "Run",
+    "Python.Q5.executor": "Run",
+    "Python.Q6.executor": "Run",
+    "Python.Q7.executor": "Run",
+    "Python.Q8.executor": "Run",
     "Python.Rangecheck_Q6.executor": "Run",
     "Python.discount_eligibility_Q8.executor": "Run",
     "Python.divisibleby5and7_Q9.executor": "Run",
@@ -69,6 +75,7 @@
     "Python.odd index.executor": "Run",
     "Python.oddnegative_Q7.executor": "Run",
     "Python.prime+odd_Q10.executor": "Run",
+    "Python.purchase+discount_Q12.executor": "Run",
     "Python.rangecheckwithor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
